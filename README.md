@@ -16,6 +16,7 @@
 - 💬 Ask me about web dev
 
 ---
+
 <table>
   <thead>
     <tr>
@@ -35,6 +36,7 @@
     </tr>
   </tbody>
 </table>
+
 ---
 
 <table>

@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**LuisDGracia/LuisDGracia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <thead>
+    <tr>
+      <td>Currently Learning</td>
+      <td>📚</td>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <td>Angular</td>
+      <td><img src="https://cdn.svgporn.com/logos/angular-icon.svg" width="50" alt="Angular" ></td>
+    </tr>
+    <tr>
+      <td>TypeScript</td>
+      <td><img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="50" alt="Angular" ></td>
+    </tr>
+  </tbody>
+</table>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

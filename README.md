@@ -1,9 +1,9 @@
 ## Hi [Luis De Gracia](https://luisdgracia.github.io/portfolio2/) here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-<a href="https://twitter.com/Luis_DGracia" target="_blanck" >
+<a href="https://twitter.com/Luis_DGracia" target="_blank" >
   <img src="https://cdn.svgporn.com/logos/twitter.svg" width=30>
 </a>
-<a href="https://www.linkedin.com/in/luis-degracia" target="_blanck" >
+<a href="https://www.linkedin.com/in/luis-degracia" target="_blank" >
   <img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" width=30>
 </a>
 

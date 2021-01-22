@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Hi [Luis De Gracia][website] here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 <a href="https://twitter.com/Luis_DGracia" target="_blanck" >
@@ -16,7 +17,6 @@
 - 💬 Ask me about web dev
 
 ---
-
 <table>
   <thead>
     <tr>
@@ -37,6 +37,7 @@
   </tbody>
 </table>
 
+<<<<<<< HEAD
 ---
 
 <table>
@@ -75,4 +76,6 @@
 <!-- LINKS -->
 
 [website]: (https://luisdgracia.github.io/portfolio2/)
+=======
+>>>>>>> 460935c976458e1d185523ae33a797e70f98e324
 

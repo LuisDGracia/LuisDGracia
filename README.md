@@ -1,4 +1,4 @@
-## Hi [Luis De Gracia][website] here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+## Hi [Luis De Gracia](https://luisdgracia.github.io/portfolio2/) here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 <a href="https://twitter.com/Luis_DGracia" target="_blanck" >
   <img src="https://cdn.svgporn.com/logos/twitter.svg" width=30>
@@ -70,9 +70,3 @@
     </tr>
   </tbody>
 </table>
-
-
-<!-- LINKS -->
-
-[website]: (https://luisdgracia.github.io/portfolio2/)
-
